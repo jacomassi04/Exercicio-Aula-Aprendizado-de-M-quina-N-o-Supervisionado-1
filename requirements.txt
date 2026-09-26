@@ -23,6 +23,7 @@ matplotlib-inline==0.2.2
 narwhals==2.26.0
 nest-asyncio2==1.7.3
 numpy==2.5.3
+opencv-python==5.0.0.93
 packaging==26.3
 pandas==3.0.6
 parso==0.8.7
